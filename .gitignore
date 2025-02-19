@@ -1,0 +1,4 @@
+venv
+archive
+cnn_model_grayscale.keras
+weights_for_verilog.txt
